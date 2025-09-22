@@ -1,0 +1,21 @@
+{
+  "name": "recette_crud",
+  "version": "1.0.0",
+  "description": "recette_crud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "recette"
+  ],
+  "author": "Rom1",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  }
+}
